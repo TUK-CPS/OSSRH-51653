@@ -1,1 +1,1 @@
-Verify github account.
+Verifies github account.
